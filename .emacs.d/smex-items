@@ -1,0 +1,60 @@
+
+;; ----- smex-history -----
+(
+ list-packages
+ revert-buffer
+ org-version
+ Stata-mode
+ ado-mode
+ eshell
+ savehist-mode
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 10)
+ (R . 7)
+ (stata . 26)
+ (ansi-term . 1)
+ (term . 2)
+ (eshell . 17)
+ (list-packages . 152)
+ (lisp-mode . 10)
+ (yas-minor-mode . 2)
+ (bibtex-mode . 3)
+ (org-version . 3)
+ (markdown-mode . 9)
+ (run-python . 10)
+ (ess-noweb-mode . 3)
+ (reftex-toggle-plug-into-AUCTeX . 3)
+ (ess-swv-toggle-plug-into-AUCTeX . 1)
+ (LaTeX-mode . 5)
+ (Stata-mode . 5)
+ (tetris . 7)
+ (TeX-mode . 42)
+ (poly-Rd-mode . 1)
+ (poly-markdown-mode . 7)
+ (query-replace . 1)
+ (comment-region . 1)
+ (ispell . 15)
+ (flyspell-mode . 1)
+ (ac-ispell-setup . 1)
+ (TeX-PDF-mode . 1)
+ (octave-mode . 2)
+ (magit-log . 3)
+ (org-mode . 3)
+ (emacs-version . 1)
+ (rename-file . 1)
+ (ess-help-web-search . 4)
+ (eval-buffer . 1)
+ (spss-mode . 1)
+ (revert-buffer . 11)
+ (stata-lookup . 1)
+ (ado-mode . 2)
+ (pyvenv-workon . 3)
+ (python-mode . 1)
+ (elpy-mode . 1)
+ (markdown-preview-mode . 1)
+ (scrum-update-all . 8)
+ (savehist-mode . 1)
+)
